@@ -27,4 +27,4 @@ I'm a Computer Science student passionate about software development, algorithm 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ab0626"><img src="https://github-readme-stats.vercel.app/api?username=ab0626&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=64748b&icon_color=84cc16&bg_color=0f172a&hide_border=true&show_icons=true" alt="ab0626's GitHub stats" /></a>
+<a href="http://www.github.com/ab0626"><img src="![ab0626's Stats](https://github-readme-stats.vercel.app/api?username=ab0626&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)" /></a>
