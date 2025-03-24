@@ -10,7 +10,7 @@ I'm a Computer Science student passionate about software development, algorithm 
 * ✉️  You can contact me at [adithya35756@gmail.com](mailto:adithya35756@gmail.com)
 * 🤝  I'm open to collaborating on I'm open to collaborating on interesting projects, especially those involving AI, quantitative development, and financial modeling.
 * ⚡  Always curious and eager to learn new technologies!
-* 📖  Currently Studying for Akuna Capital options 101 and MORE!!
+* 📖  Currently Studying for  📈 Akuna Capital options 101 and MORE!!
 
 ### Skills
 
