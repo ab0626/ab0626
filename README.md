@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adithya Bellamkonda
 ===========================================================================================================================================
 
-Computer Science Student | Aspiring Quant Developer | AI & Financial Engineering Enthusiast
+Computer Science Student | Aspiring Quant Developer and Quant Trader | AI & Financial Engineering Enthusiast
 -------------------------------------------------------------------------------------------
 
 I'm a Computer Science student passionate about software development, algorithm design, and applying AI to solve real-world problems, particularly in finance. My interests lie in machine learning, quantitative finance, and building efficient systems for data analysis and modeling.
