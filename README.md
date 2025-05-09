@@ -28,5 +28,6 @@ I'm a Computer Science student passionate about software development, algorithm 
 
 ### Badges
 ![Adithya Bellamkonda LeetCode stats light](https://leetcode-badge-sage.vercel.app/badge/adithyab123?bgColor=fff)
-<a href="http://www.github.com/ab0626"><img src="<img src="https://github-readme-stats.vercel.app/api?username=ab0626&theme=default&show_icons=true&hide_border=true&count_private=true" alt="ab0626's GitHub Stats" />" /></a>
+<a href="http://www.github.com/ab0626"><img src="
+<img src="https://github-readme-stats.vercel.app/api?username=ab0626&theme=default&show_icons=true&hide_border=true&count_private=true" alt="ab0626's GitHub Stats" />" /></a>
 
