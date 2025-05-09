@@ -27,9 +27,5 @@ I'm a Computer Science student passionate about software development, algorithm 
 <p align="left"> <a href="https://www.github.com/ab0626" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/AdithyaBel1276" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
-
-<b>My GitHub Stats</b>
-<a href="http://www.github.com/ab0626"><img src=" <img src="https://github-readme-stats.vercel.app/api?username=ab0626&theme=default&show_icons=true&hide_border=true&count_private=true" alt="ab0626's GitHub Stats" />" /></a>
-
 ![Adithya Bellamkonda LeetCode stats light](https://leetcode-badge-sage.vercel.app/badge/adithyab123?bgColor=fff)
 
