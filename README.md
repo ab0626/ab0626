@@ -1,31 +1,41 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adithya Bellamkonda
-===========================================================================================================================================
-
-Computer Science Student | Aspiring Quant Developer and Quant Trader | AI & Financial Engineering Enthusiast
--------------------------------------------------------------------------------------------
+## Hi there! 👋 I am Adithya Bellamkonda
 
 I'm a Computer Science student passionate about software development, algorithm design, and applying AI to solve real-world problems, particularly in finance. My interests lie in machine learning, quantitative finance, and building efficient systems for data analysis and modeling.
 
-* 🌍  I'm based in Alabama
-* ✉️  You can contact me at [adithya35756@gmail.com](mailto:adithya35756@gmail.com)
-* 🤝  I'm open to collaborating on I'm open to collaborating on interesting projects, especially those involving AI, quantitative development, and financial modeling.
-* ⚡  Always curious and eager to learn new technologies!
-* 📖  Currently Studying for  📈 Akuna Capital options 101 and MORE!!
+## About Me
 
-### Skills
+Currently pursuing my degree in **CS + ECON** at UAH, I have a strong interest in software development, machine learning, and distributed systems. I enjoy tackling complex problems and creating innovative solutions.
 
+## Skills & Technologies
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
- 
-                    
+java,git,docker,spring,aws,c,gcp,r,py,cpp,mongodb,cassandra,mysql,azure,postgres,django,tensorflow,sklearn,terraform
 
+## Top Projects
 
-### Socials
+- [Distributed Task Queuing System](https://github.com/ab0626/Distributed-Task-Queuing-System) - A task queue system implemented in Go for distributed task processing. (⭐ 0)
+- [CueAI](https://github.com/ab0626/CueAI) - A high-fidelity pool simulation app using advanced physics modeling and machine learning. (⭐ 0)
+- [ML Trading Bot](https://github.com/ab0626/ML-Trading-Bot) - An algorithmic trading bot that leverages machine learning for optimization. (⭐ 0)
+- [AutoWeave](https://github.com/ab0626/AutoWeave) - An AI-powered backend tool to boost API performance using Java and Spring Boot. (⭐ 0)
+- [AI-ML](https://github.com/ab0626/AI-ML) - A collection of AI and ML projects showcasing various techniques and applications. (⭐ 0)
 
-<p align="left"> <a href="https://www.github.com/ab0626" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/AdithyaBel1276" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+## GitHub Stats
 
-### Badges
-![Adithya Bellamkonda's LeetCode stats dark](https://leetcode-badge-sage.vercel.app/badge/adithyab123?theme=dark&bgColor=282828)
-<img src="https://github-readme-stats.vercel.app/api?username=ab0626&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="ab0626's GitHub Stats" />
+🏆 **Public Repositories:** 16  
+👥 **Followers:** 1  
+👤 **Following:** 2  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ab0626&show_icons=true&theme=radical)
+
+## Recent Activity
+
+- Released [CueAI v1.0.0](https://github.com/ab0626/CueAI/releases/tag/v1.0.0) - 🚀 The First Break!  
+- Created the [Rust-based OS](https://github.com/ab0626/Rust-based-OS).  
+- Pushed updates to [personal-portfolio](https://github.com/ab0626/personal-portfolio).  
+- Initial commit for [CueAI](https://github.com/ab0626/CueAI) - Precision Pool Sim.
+
+## Latest Blog Posts
+
+Currently, I do not have any blog posts. Stay tuned for updates!
+
+## Connect with Me
+
+{}
