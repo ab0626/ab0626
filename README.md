@@ -8,7 +8,7 @@ Currently pursuing my degree in **CS + ECON** at UAH, I have a strong interest i
 
 ## Skills & Technologies
 
-java,git,docker,spring,aws,c,gcp,r,py,cpp,mongodb,cassandra,mysql,azure,postgres,django,tensorflow,sklearn,terraform
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## Top Projects
 
