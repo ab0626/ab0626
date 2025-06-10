@@ -8,7 +8,7 @@ Currently pursuing my degree in **CS + ECON** at UAH, I have a strong interest i
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,css,c,java,r)](https://skillicons.dev)
 
 ## Top Projects
 
