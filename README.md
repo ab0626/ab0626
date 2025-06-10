@@ -9,7 +9,9 @@ Currently pursuing my degree in **CS + ECON** at UAH, I have a strong interest i
 ## Skills & Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,css,c,java,r)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=mongodb,cassandra,mysql,postgres,azure,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,django,sklearn,tensorflow,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,git,docker,terraform,azure)](https://skillicons.dev)
 ## Top Projects
 
 - [Distributed Task Queuing System](https://github.com/ab0626/Distributed-Task-Queuing-System) - A task queue system implemented in Go for distributed task processing. (⭐ 0)
