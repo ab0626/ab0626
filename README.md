@@ -1,10 +1,10 @@
 ## Hi there! 👋 I am Adithya Bellamkonda
 
-I'm a Computer Science student passionate about software development, algorithm design, and applying AI to solve real-world problems, particularly in finance. My interests lie in machine learning, quantitative finance, and building efficient systems for data analysis and modeling.
+I'm a Computer Science student passionate about software development, algorithm design, and applying AI to solve real-world problems, particularly in finance. My interests lie in graph theory, machine learning, quantitative finance, and building efficient systems for data analysis and modeling.
 
 ## About Me
 
-Currently pursuing my degree in **CS + ECON** at UAH, I have a strong interest in software development, machine learning, and distributed systems. I enjoy tackling complex problems and creating innovative solutions.
+Currently pursuing my degree in **CS + ECON** at UAH, I have a strong interest in Software Engineering, Quantitative development, machine learning, and distributed systems. I enjoy tackling complex problems and creating innovative solutions.
 
 ## Skills & Technologies
 
