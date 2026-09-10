@@ -3,4 +3,4 @@
 CS + Math @ UA  
 Prev @ SIG, Microsoft | incoming Quantitative Developer @ ?  
 
-interests: systems, ml, quant
+interests: math, systems, ml, quant
